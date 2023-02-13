@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	unionfind "github.com/ytanne/dstools/disjoint-set/union-find"
+	unionfind "github.com/ytanne/dstools/disjoint-set/quick-find"
 )
 
 func TestUnionFind(t *testing.T) {
